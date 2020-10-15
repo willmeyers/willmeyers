@@ -8,4 +8,5 @@ Check out my [website](https://willmeyers.net). Here's my [twitter](https://twit
 
 <img align="left" width="100" height="100" src="https://i.scdn.co/image/ab67616d00004851c8b4d3e989567cb13adf5e28">
 A song name
-By an artist.
+
+*By an artist*
