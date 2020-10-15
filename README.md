@@ -6,7 +6,9 @@ Passions include: not completing game jams, free education, and walks in the par
 
 Check out my [website](https://willmeyers.net). Here's my [twitter](https://twitter.com/willmeyers_).
 
-<img align="left" width="100" height="100" src="https://i.scdn.co/image/ab67616d00004851c8b4d3e989567cb13adf5e28">
+<img align="left" width="64" height="64" src="https://i.scdn.co/image/ab67616d00004851c8b4d3e989567cb13adf5e28">
 A song name
 
 *By an artist*
+
+(🎵 Listen on Spotify)[https://idf.com]
