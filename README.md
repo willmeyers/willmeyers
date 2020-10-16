@@ -8,6 +8,7 @@ Check out my [website](https://willmeyers.net). Here's my [twitter](https://twit
 
 ### Live Updates
 
-<img align="left" src="https://willmeyers.net/status/spotify">
 
-<img align="left" src="https://willmeyers.net/status/weather">
+<img align="left" src="https://willmeyers.net/status/spotify" width="256" height="72" alt="Now Playing">
+
+<img align="left" src="https://willmeyers.net/status/weather" width="256" height="72" alt="Weather">
