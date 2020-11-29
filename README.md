@@ -4,8 +4,6 @@ I specialize in web development, information/data extraction, and making things 
 
 Passions include: not completing game jams, free education, and walks in the park.
 
-Check out my [website](https://willmeyers.net). Here's my [twitter](https://twitter.com/willmeyers_).
-
 ### Live Updates
 
 
