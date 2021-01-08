@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I specialize in web development, information/data extraction, and making things work.
+I specialize in web development and data extraction.
 
 Passions include: not completing game jams, free education, and walks in the park.
 
